@@ -17,3 +17,6 @@ Please install these packages before the workshop
 
  
 
+Dataset: Geographical Data Science and Spatial Data Analysis: Data for Chapter 7
+
+Comber, Alexis and Brunsdon, Chris (2020) Geographical Data Science and Spatial Data Analysis: Data for Chapter 7. University of Leeds. [Dataset] https://doi.org/10.5518/871
